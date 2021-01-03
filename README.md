@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Amalia! I'm an 4th year electronic engineering student :zap:
+##### My name is Amalia! I'm an 4th year electronic engineering student :zap:
 
 
 <!--
