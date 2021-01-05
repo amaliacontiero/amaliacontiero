@@ -1,4 +1,4 @@
-## Hi there! 👋 My name is Amalia! I'm an 4th year electronic engineering student :zap:
+## Hi there! 👋 My name is Amalia! I'm a 4th year electronic engineering student :zap:
 
 Welcome to my Github page where I occasionally push my crappy code ✨
 - 🔭 I’m currently working on my personal website!
