@@ -1,6 +1,3 @@
-## Hi there! 👋 My name is Amalia! I'm a 4th year electronic engineering student :zap:
-
-Welcome to my Github page where I occasionally push my crappy code ✨
-- 🔭 I’m currently working on my personal website!
-- 🌱 I’m currently learning about web dev, microprocessors and computer networks! 
-- 📫 How to reach me: hmu on [twitter](https://twitter.com/amaliacontiero) or send me an [email](mailto:amaliacontiero@gmail.com)
+## Hi there! 👋 My name is Amalia! I'm a 5th year electronic engineering student :zap:
+- 🌱 I’m currently learning about electronics and machine learning! 
+- 📫 How to reach me: hmu on [LinkedIn](https://gr.linkedin.com/in/amaliacontiero) or send me an [email](mailto:amaliacontiero@gmail.com)
